@@ -1,3 +1,4 @@
+![Black and White Bold Trade and Investments Youtube Banner (3)](https://github.com/da350/da350/assets/133881205/8e145b86-11c4-45b9-80e6-a6b7664c23d5)
 
 # David Kafunga
 I'm a software developer,currently located in TURKEY/ISTANBUL.
