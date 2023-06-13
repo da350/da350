@@ -1,5 +1,6 @@
 
-![blob](https://github.com/da350/da350/assets/133881205/444653f3-4be3-4efb-8b0b-1ef298dcf811)
+https://github.com/da350/da350/assets/133881205/78ede8ca-1db8-4159-b02c-966c796f2384
+
 
 # David Kafunga
 I'm a software developer,currently located in TURKEY/ISTANBUL.
@@ -26,6 +27,7 @@ Always emphasize hard work because " By dint of attempts ,we always come to succ
 <div align="center">
   
 </div>
+
 
 
 ---
